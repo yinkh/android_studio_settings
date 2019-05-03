@@ -1,0 +1,5 @@
+<application>
+  <component name="SqliteSettings">
+    <option name="databaseFolderPath" value="D:\AS_workspace\sqllite" />
+  </component>
+</application>
