@@ -15,6 +15,9 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="CopyPaths" />
+  <action id="Debugger.RemoveAllBreakpoints">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditorSplitLine" />
