@@ -10,6 +10,10 @@
           <option name="url" value="https://e.coding.net/yinkh/Todoist_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.n.xiaomi.com/nextpaytest/uiautotest-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android_WorkSpace" />
