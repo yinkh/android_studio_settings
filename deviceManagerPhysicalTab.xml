@@ -5,12 +5,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="a8feea2c" />
+            <value value="dqe6tcx4jnvgciw4" />
           </Key>
         </key>
-        <name value="Xiaomi MI 8" />
-        <target value="Android 10.0" />
-        <api value="29" />
+        <name value="Xiaomi 22041219C" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
