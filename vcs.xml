@@ -19,6 +19,8 @@
     <option name="cloneParentDir" value="D:\Android_WorkSpace" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
+    <option name="DIFF_PREVIEW_VERTICAL_SPLIT" value="false" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
@@ -27,5 +29,8 @@
         <option value="Default.Date" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_DIFF_ON_DOUBLE_CLICK" value="true" />
   </component>
 </application>
