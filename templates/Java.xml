@@ -14,4 +14,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="FAO" value="FAO().text(&quot;$END$&quot;).build();" description="FAO build" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="WFAO" value="WFAO().text(&quot;$END$&quot;).build();" description="WFAO build" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
