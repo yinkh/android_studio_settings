@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="40597e07" />
+          </Key>
+        </key>
+        <name value="Xiaomi 2107119DC" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="fis84dl7fepv9x95" />
+          </Key>
+        </key>
+        <name value="Xiaomi 21091116UG" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="auk75pfyrsxobeq8" />
           </Key>
         </key>
@@ -20,17 +42,6 @@
           </Key>
         </key>
         <name value="Xiaomi M2007J22C" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="40597e07" />
-          </Key>
-        </key>
-        <name value="Xiaomi 2107119DC" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
@@ -75,17 +86,6 @@
           </Key>
         </key>
         <name value="Xiaomi 22041219C" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="fis84dl7fepv9x95" />
-          </Key>
-        </key>
-        <name value="Xiaomi 21091116UG" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
