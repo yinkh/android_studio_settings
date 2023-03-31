@@ -86,8 +86,8 @@
           </Key>
         </key>
         <name value="Xiaomi 22021211RC" />
-        <target value="Android 12.0" />
-        <api value="31" />
+        <target value="Android API 33" />
+        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -143,6 +143,61 @@
         <name value="realme RMX3574" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="DQOJXKN7FIFY7T4X" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22081283C" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="5cdcf901" />
+          </Key>
+        </key>
+        <name value="vivo V1965A" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6a08ef6" />
+          </Key>
+        </key>
+        <name value="OPPO PCLM50" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="a17a7da8" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9350" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="PQTNW20415006116" />
+          </Key>
+        </key>
+        <name value="HUAWEI LRA-AL00" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
