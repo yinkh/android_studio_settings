@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="237bab4a" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22021211RC" />
+        <target value="Android API 33" />
+        <api value="33" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="483d436" />
           </Key>
         </key>
@@ -77,17 +88,6 @@
         <name value="Xiaomi 2109119BC" />
         <target value="Android 12.0" />
         <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="237bab4a" />
-          </Key>
-        </key>
-        <name value="Xiaomi 22021211RC" />
-        <target value="Android API 33" />
-        <api value="33" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
