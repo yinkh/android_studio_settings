@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/bytedance/Fastbot_Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/majido/clipper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android_WorkSpace" />
